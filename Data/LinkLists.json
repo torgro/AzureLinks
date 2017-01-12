@@ -1,0 +1,1082 @@
+﻿[
+    {
+        "Name":  "4pillars",
+        "Link":  "https://aka.ms/Azure/4pillars",
+        "Description":  ""
+    },
+    {
+        "Name":  "ACL",
+        "Link":  "https://aka.ms/Azure/ACL",
+        "Description":  ""
+    },
+    {
+        "Name":  "ACS",
+        "Link":  "https://aka.ms/Azure/ACS",
+        "Description":  ""
+    },
+    {
+        "Name":  "AD",
+        "Link":  "https://aka.ms/Azure/AD",
+        "Description":  ""
+    },
+    {
+        "Name":  "AD/Dev",
+        "Link":  "https://aka.ms/azure/AD/Dev",
+        "Description":  ""
+    },
+    {
+        "Name":  "AD/editions",
+        "Link":  "https://aka.ms/Azure/AD/editions",
+        "Description":  ""
+    },
+    {
+        "Name":  "Roles",
+        "Link":  "chttps://aka.ms/Azure/Roles",
+        "Description":  ""
+    },
+    {
+        "Name":  "ADAL",
+        "Link":  "https://aka.ms/Azure/ADAL",
+        "Description":  ""
+    },
+    {
+        "Name":  "ADConnect",
+        "Link":  "https://aka.ms/Azure/ADConnect",
+        "Description":  ""
+    },
+    {
+        "Name":  "adconnect/Topologies",
+        "Link":  "https://aka.ms/azure/adconnect/Topologies",
+        "Description":  ""
+    },
+    {
+        "Name":  "ADConnect/Staging",
+        "Link":  "https://aka.ms/Azure/ADConnect/Staging",
+        "Description":  ""
+    },
+    {
+        "Name":  "ADConnect/Swing",
+        "Link":  "https://aka.ms/Azure/ADConnect/Swing",
+        "Description":  ""
+    },
+    {
+        "Name":  "ADDS",
+        "Link":  "https://aka.ms/Azure/ADDS",
+        "Description":  ""
+    },
+    {
+        "Name":  "Addresses",
+        "Link":  "https://aka.ms/Azure/Addresses",
+        "Description":  ""
+    },
+    {
+        "Name":  "Administration",
+        "Link":  "https://aka.ms/Azure/Administration",
+        "Description":  ""
+    },
+    {
+        "Name":  "ADTenant",
+        "Link":  "https://aka.ms/Azure/ADTenant",
+        "Description":  ""
+    },
+    {
+        "Name":  "Alerts",
+        "Link":  "https://aka.ms/Azure/Alerts",
+        "Description":  ""
+    },
+    {
+        "Name":  "Ansible",
+        "Link":  "https://aka.ms/Azure/Ansible",
+        "Description":  ""
+    },
+    {
+        "Name":  "API",
+        "Link":  "https://aka.ms/Azure/API",
+        "Description":  ""
+    },
+    {
+        "Name":  "AppInsights",
+        "Link":  "https://aka.ms/Azure/AppInsights",
+        "Description":  ""
+    },
+    {
+        "Name":  "AppProxy",
+        "Link":  "https://aka.ms/Azure/AppProxy",
+        "Description":  ""
+    },
+    {
+        "Name":  "AppService",
+        "Link":  "https://aka.ms/Azure/AppService",
+        "Description":  ""
+    },
+    {
+        "Name":  "AppService/NSG",
+        "Link":  "https://aka.ms/Azure/AppService/NSG",
+        "Description":  ""
+    },
+    {
+        "Name":  "Architect",
+        "Link":  "https://aka.ms/Azure/Architect",
+        "Description":  ""
+    },
+    {
+        "Name":  "ARM",
+        "Link":  "https://aka.ms/Azure/ARM",
+        "Description":  ""
+    },
+    {
+        "Name":  "ARM/RestAPI",
+        "Link":  "https://aka.ms/Azure/ARM/RestAPI",
+        "Description":  ""
+    },
+    {
+        "Name":  "ARM/RestAPI/reference",
+        "Link":  "https://aka.ms/Azure/ARM/RestAPI/reference",
+        "Description":  ""
+    },
+    {
+        "Name":  "ASE",
+        "Link":  "https://aka.ms/Azure/ASE",
+        "Description":  ""
+    },
+    {
+        "Name":  "ASM",
+        "Link":  "https://aka.ms/Azure/ASM",
+        "Description":  ""
+    },
+    {
+        "Name":  "ASR",
+        "Link":  "https://aka.ms/Azure/ASR",
+        "Description":  ""
+    },
+    {
+        "Name":  "Authentication",
+        "Link":  "https://aka.ms/Azure/Authentication",
+        "Description":  ""
+    },
+    {
+        "Name":  "Availability",
+        "Link":  "https://aka.ms/Azure/Availability",
+        "Description":  ""
+    },
+    {
+        "Name":  "AWS",
+        "Link":  "https://aka.ms/Azure/AWS",
+        "Description":  ""
+    },
+    {
+        "Name":  "Audit",
+        "Link":  "https://aka.ms/Azure/Audit",
+        "Description":  ""
+    },
+    {
+        "Name":  "AuthZLog",
+        "Link":  "https://aka.ms/Azure/AuthZLog",
+        "Description":  ""
+    },
+    {
+        "Name":  "Automation",
+        "Link":  "https://aka.ms/Azure/Automation",
+        "Description":  ""
+    },
+    {
+        "Name":  "Automation/DSC",
+        "Link":  "https://aka.ms/Azure/Automation/DSC",
+        "Description":  ""
+    },
+    {
+        "Name":  "Automation/Hybrid",
+        "Link":  "https://aka.ms/Azure/Automation/Hybrid",
+        "Description":  ""
+    },
+    {
+        "Name":  "AzCopy",
+        "Link":  "https://aka.ms/Azure/AzCopy",
+        "Description":  ""
+    },
+    {
+        "Name":  "B2B",
+        "Link":  "https://aka.ms/Azure/B2B",
+        "Description":  ""
+    },
+    {
+        "Name":  "B2C",
+        "Link":  "https://aka.ms/Azure/B2C",
+        "Description":  ""
+    },
+    {
+        "Name":  "Backup",
+        "Link":  "https://aka.ms/Azure/Backup",
+        "Description":  ""
+    },
+    {
+        "Name":  "Batch",
+        "Link":  "https://aka.ms/Azure/Batch",
+        "Description":  ""
+    },
+    {
+        "Name":  "BCDR",
+        "Link":  "https://aka.ms/Azure/BCDR",
+        "Description":  ""
+    },
+    {
+        "Name":  "BizTalk",
+        "Link":  "https://aka.ms/Azure/BizTalk",
+        "Description":  ""
+    },
+    {
+        "Name":  "Blobs",
+        "Link":  "https://aka.ms/Azure/Blobs",
+        "Description":  ""
+    },
+    {
+        "Name":  "Branding",
+        "Link":  "https://aka.ms/Azure/Branding",
+        "Description":  ""
+    },
+    {
+        "Name":  "Caching",
+        "Link":  "https://aka.ms/Azure/Caching",
+        "Description":  ""
+    },
+    {
+        "Name":  "CaseStudies",
+        "Link":  "https://aka.ms/Azure/CaseStudies",
+        "Description":  ""
+    },
+    {
+        "Name":  "ChangeTenant",
+        "Link":  "https://aka.ms/Azure/ChangeTenant",
+        "Description":  ""
+    },
+    {
+        "Name":  "Chocolatey",
+        "Link":  "https://aka.ms/Azure/Chocolatey",
+        "Description":  ""
+    },
+    {
+        "Name":  "CDN",
+        "Link":  "https://aka.ms/Azure/CDN",
+        "Description":  ""
+    },
+    {
+        "Name":  "CLI",
+        "Link":  "https://aka.ms/Azure/CLI",
+        "Description":  ""
+    },
+    {
+        "Name":  "Cloud",
+        "Link":  "https://aka.ms/Azure/Cloud",
+        "Description":  ""
+    },
+    {
+        "Name":  "CloudAppDiscovery",
+        "Link":  "http://aka.ms/Azure/CloudAppDiscovery",
+        "Description":  ""
+    },
+    {
+        "Name":  "ConnectHealth",
+        "Link":  "https://aka.ms/Azure/ConnectHealth",
+        "Description":  ""
+    },
+    {
+        "Name":  "Compare",
+        "Link":  "https://aka.ms/Azure/Compare",
+        "Description":  ""
+    },
+    {
+        "Name":  "compliance",
+        "Link":  "https://aka.ms/Azure/compliance",
+        "Description":  ""
+    },
+    {
+        "Name":  "ConditionalAccess",
+        "Link":  "https://aka.ms/Azure/ConditionalAccess",
+        "Description":  ""
+    },
+    {
+        "Name":  "CORS",
+        "Link":  "https://aka.ms/azure/CORS",
+        "Description":  ""
+    },
+    {
+        "Name":  "CSP",
+        "Link":  "https://aka.ms/Azure/CSP",
+        "Description":  ""
+    },
+    {
+        "Name":  "CustomDomainName",
+        "Link":  "https://aka.ms/Azure/CustomDomainName",
+        "Description":  ""
+    },
+    {
+        "Name":  "DataFactory",
+        "Link":  "https://aka.ms/Azure/DataFactory",
+        "Description":  ""
+    },
+    {
+        "Name":  "DataLake",
+        "Link":  "https://aka.ms/Azure/DataLake",
+        "Description":  ""
+    },
+    {
+        "Name":  "Design",
+        "Link":  "https://aka.ms/Azure/Design",
+        "Description":  ""
+    },
+    {
+        "Name":  "DevTest",
+        "Link":  "https://aka.ms/Azure/DevTest",
+        "Description":  ""
+    },
+    {
+        "Name":  "DevOpsLinks",
+        "Link":  "https://aka.ms/Azure/DevOpsLinks",
+        "Description":  ""
+    },
+    {
+        "Name":  "Diagnostics",
+        "Link":  "https://aka.ms/Azure/Diagnostics",
+        "Description":  ""
+    },
+    {
+        "Name":  "Discovery",
+        "Link":  "https://aka.ms/Azure/Discovery",
+        "Description":  ""
+    },
+    {
+        "Name":  "Disks",
+        "Link":  "https://aka.ms/Azure/Disks",
+        "Description":  ""
+    },
+    {
+        "Name":  "DMZ",
+        "Link":  "https://aka.ms/Azure/DMZ",
+        "Description":  ""
+    },
+    {
+        "Name":  "DNS",
+        "Link":  "https://aka.ms/Azure/DNS",
+        "Description":  ""
+    },
+    {
+        "Name":  "DocumentDB",
+        "Link":  "https://aka.ms/Azure/DocumentDB",
+        "Description":  ""
+    },
+    {
+        "Name":  "ExpressRoute",
+        "Link":  "https://aka.ms/Azure/ExpressRoute",
+        "Description":  ""
+    },
+    {
+        "Name":  "ExpressRoute/Partners",
+        "Link":  "https://aka.ms/Azure/ExpressRoute/Partners",
+        "Description":  ""
+    },
+    {
+        "Name":  "ExpressRoute/Circuits",
+        "Link":  "https://aka.ms/Azure/ExpressRoute/Circuits",
+        "Description":  ""
+    },
+    {
+        "Name":  "Extensions",
+        "Link":  "https://aka.ms/Azure/Extensions",
+        "Description":  ""
+    },
+    {
+        "Name":  "Files",
+        "Link":  "https://aka.ms/Azure/Files",
+        "Description":  ""
+    },
+    {
+        "Name":  "Files/smb",
+        "Link":  "https://aka.ms/Azure/Files/smb",
+        "Description":  ""
+    },
+    {
+        "Name":  "ForcedTunneling",
+        "Link":  "https://aka.ms/Azure/ForcedTunneling",
+        "Description":  ""
+    },
+    {
+        "Name":  "Fridays",
+        "Link":  "https://aka.ms/Azure/Fridays",
+        "Description":  ""
+    },
+    {
+        "Name":  "Functions",
+        "Link":  "https://aka.ms/Azure/Functions",
+        "Description":  ""
+    },
+    {
+        "Name":  "Gateways",
+        "Link":  "https://aka.ms/Azure/Gateways",
+        "Description":  ""
+    },
+    {
+        "Name":  "Github",
+        "Link":  "https://aka.ms/Azure/Github",
+        "Description":  ""
+    },
+    {
+        "Name":  "Guidelines",
+        "Link":  "https://aka.ms/Azure/Guidelines",
+        "Description":  ""
+    },
+    {
+        "Name":  "Gov",
+        "Link":  "https://aka.ms/Azure/Gov",
+        "Description":  ""
+    },
+    {
+        "Name":  "GraphAPI",
+        "Link":  "https://aka.ms/Azure/GraphAPI",
+        "Description":  ""
+    },
+    {
+        "Name":  "Groups",
+        "Link":  "https://aka.ms/Azure/Groups",
+        "Description":  ""
+    },
+    {
+        "Name":  "Guidance",
+        "Link":  "https://aka.ms/azure/Guidance",
+        "Description":  ""
+    },
+    {
+        "Name":  "HDInsight",
+        "Link":  "https://aka.ms/azure/HDInsight",
+        "Description":  ""
+    },
+    {
+        "Name":  "Health",
+        "Link":  "https://aka.ms/Azure/Health",
+        "Description":  ""
+    },
+    {
+        "Name":  "HPC",
+        "Link":  "https://aka.ms/Azure/HPC",
+        "Description":  ""
+    },
+    {
+        "Name":  "Hybrid",
+        "Link":  "https://aka.ms/Azure/Hybrid",
+        "Description":  ""
+    },
+    {
+        "Name":  "IaaS",
+        "Link":  "https://aka.ms/Azure/IaaS",
+        "Description":  ""
+    },
+    {
+        "Name":  "IaaSOpsGuide",
+        "Link":  "https://aka.ms/Azure/IaaSOpsGuide",
+        "Description":  ""
+    },
+    {
+        "Name":  "IdentityProtection",
+        "Link":  "https://aka.ms/Azure/IdentityProtection",
+        "Description":  ""
+    },
+    {
+        "Name":  "IDMaaS",
+        "Link":  "https://aka.ms/Azure/IDMaaS",
+        "Description":  ""
+    },
+    {
+        "Name":  "ILB",
+        "Link":  "https://aka.ms/Azure/ILB",
+        "Description":  ""
+    },
+    {
+        "Name":  "ILB/Internet",
+        "Link":  "https://aka.ms/Azure/ILB/Internet",
+        "Description":  ""
+    },
+    {
+        "Name":  "ILB/Internal",
+        "Link":  "https://aka.ms/Azure/ILB/Internal",
+        "Description":  ""
+    },
+    {
+        "Name":  "ILB/SourceAffinity",
+        "Link":  "https://aka.ms/Azure/ILB/SourceAffinity",
+        "Description":  ""
+    },
+    {
+        "Name":  "ILB/Probes",
+        "Link":  "https://aka.ms/Azure/ILB/Probes",
+        "Description":  ""
+    },
+    {
+        "Name":  "ILB/Analytics",
+        "Link":  "https://aka.ms/Azure/ILB/Analytics",
+        "Description":  ""
+    },
+    {
+        "Name":  "ILPIP",
+        "Link":  "https://aka.ms/Azure/ILPIP",
+        "Description":  ""
+    },
+    {
+        "Name":  "static",
+        "Link":  "Http://aka.ms/Azure/static",
+        "Description":  ""
+    },
+    {
+        "Name":  "Infrastructure",
+        "Link":  "https://aka.ms/Azure/Infrastructure",
+        "Description":  ""
+    },
+    {
+        "Name":  "Insights",
+        "Link":  "https://aka.ms/azure/Insights",
+        "Description":  ""
+    },
+    {
+        "Name":  "KeyVault",
+        "Link":  "https://aka.ms/Azure/KeyVault",
+        "Description":  ""
+    },
+    {
+        "Name":  "LearningPaths",
+        "Link":  "https://aka.ms/Azure/LearningPaths",
+        "Description":  ""
+    },
+    {
+        "Name":  "Linking",
+        "Link":  "https://aka.ms/Azure/Linking",
+        "Description":  ""
+    },
+    {
+        "Name":  "Linux",
+        "Link":  "https://aka.ms/Azure/Linux",
+        "Description":  ""
+    },
+    {
+        "Name":  "limits",
+        "Link":  "https://aka.ms/Azure/limits",
+        "Description":  ""
+    },
+    {
+        "Name":  "lock",
+        "Link":  "https://aka.ms/Azure/lock",
+        "Description":  ""
+    },
+    {
+        "Name":  "LogicApps",
+        "Link":  "https://aka.ms/Azure/LogicApps",
+        "Description":  ""
+    },
+    {
+        "Name":  "Logs",
+        "Link":  "https://aka.ms/Azure/Logs",
+        "Description":  ""
+    },
+    {
+        "Name":  "Marketplace",
+        "Link":  "https://aka.ms/Azure/Marketplace",
+        "Description":  ""
+    },
+    {
+        "Name":  "Media",
+        "Link":  "https://aka.ms/Azure/Media",
+        "Description":  ""
+    },
+    {
+        "Name":  "Metrics",
+        "Link":  "https://aka.ms/Azure/Metrics",
+        "Description":  ""
+    },
+    {
+        "Name":  "MFA",
+        "Link":  "https://aka.ms/Azure/MFA",
+        "Description":  ""
+    },
+    {
+        "Name":  "MicroServices",
+        "Link":  "https://aka.ms/Azure/MicroServices",
+        "Description":  ""
+    },
+    {
+        "Name":  "Migrate",
+        "Link":  "https://aka.ms/Azure/Migrate",
+        "Description":  ""
+    },
+    {
+        "Name":  "ML",
+        "Link":  "https://aka.ms/Azure/ML",
+        "Description":  ""
+    },
+    {
+        "Name":  "MLStudio",
+        "Link":  "https://aka.ms/Azure/MLStudio",
+        "Description":  ""
+    },
+    {
+        "Name":  "Modules",
+        "Link":  "https://aka.ms/Azure/Modules",
+        "Description":  ""
+    },
+    {
+        "Name":  "Monitor",
+        "Link":  "https://aka.ms/Azure/Monitor",
+        "Description":  ""
+    },
+    {
+        "Name":  "Move",
+        "Link":  "https://aka.ms/Azure/Move",
+        "Description":  ""
+    },
+    {
+        "Name":  "MP",
+        "Link":  "https://aka.ms/Azure/MP",
+        "Description":  ""
+    },
+    {
+        "Name":  "MP/SQL",
+        "Link":  "https://aka.ms/azure/MP/SQL",
+        "Description":  ""
+    },
+    {
+        "Name":  "MultiNIC",
+        "Link":  "https://aka.ms/Azure/MultiNIC",
+        "Description":  ""
+    },
+    {
+        "Name":  "naming",
+        "Link":  "https://aka.ms/Azure/naming",
+        "Description":  ""
+    },
+    {
+        "Name":  "Networks",
+        "Link":  "https://aka.ms/Azure/Networks",
+        "Description":  ""
+    },
+    {
+        "Name":  "NIC/multiple",
+        "Link":  "https://aka.ms/Azure/NIC/multiple",
+        "Description":  ""
+    },
+    {
+        "Name":  "NSG",
+        "Link":  "https://aka.ms/Azure/NSG",
+        "Description":  ""
+    },
+    {
+        "Name":  "NSG/Logs",
+        "Link":  "https://aka.ms/Azure/NSG/Logs",
+        "Description":  ""
+    },
+    {
+        "Name":  "OMS",
+        "Link":  "https://aka.ms/Azure/OMS",
+        "Description":  ""
+    },
+    {
+        "Name":  "OpenSource",
+        "Link":  "https://aka.ms/Azure/OpenSource",
+        "Description":  ""
+    },
+    {
+        "Name":  "P2S",
+        "Link":  "https://aka.ms/Azure/P2S",
+        "Description":  ""
+    },
+    {
+        "Name":  "PaaS",
+        "Link":  "https://aka.ms/Azure/PaaS",
+        "Description":  ""
+    },
+    {
+        "Name":  "Passwords",
+        "Link":  "https://aka.ms/Azure/Passwords",
+        "Description":  ""
+    },
+    {
+        "Name":  "Peering",
+        "Link":  "https://aka.ms/azure/Peering",
+        "Description":  ""
+    },
+    {
+        "Name":  "Pen",
+        "Link":  "https://aka.ms/Azure/Pen",
+        "Description":  ""
+    },
+    {
+        "Name":  "PIM",
+        "Link":  "https://aka.ms/Azure/PIM",
+        "Description":  ""
+    },
+    {
+        "Name":  "Policies",
+        "Link":  "https://aka.ms/Azure/Policies",
+        "Description":  ""
+    },
+    {
+        "Name":  "PowerShell",
+        "Link":  "https://aka.ms/Azure/PowerShell",
+        "Description":  ""
+    },
+    {
+        "Name":  "premium",
+        "Link":  "https://aka.ms/azure/premium",
+        "Description":  ""
+    },
+    {
+        "Name":  "Pricing",
+        "Link":  "https://aka.ms/Azure/Pricing",
+        "Description":  ""
+    },
+    {
+        "Name":  "Providers",
+        "Link":  "https://aka.ms/Azure/Providers",
+        "Description":  ""
+    },
+    {
+        "Name":  "Protocols",
+        "Link":  "https://aka.ms/Azure/Protocols",
+        "Description":  ""
+    },
+    {
+        "Name":  "Queues",
+        "Link":  "https://aka.ms/Azure/Queues",
+        "Description":  ""
+    },
+    {
+        "Name":  "RBAC",
+        "Link":  "https://aka.ms/Azure/RBAC",
+        "Description":  ""
+    },
+    {
+        "Name":  "rbac/custom",
+        "Link":  "https://aka.ms/azure/rbac/custom",
+        "Description":  ""
+    },
+    {
+        "Name":  "Roles",
+        "Link":  "https://aka.ms/Azure/Roles",
+        "Description":  ""
+    },
+    {
+        "Name":  "Azure/ListRoles",
+        "Link":  "http://aka/ms/Azure/ListRoles",
+        "Description":  ""
+    },
+    {
+        "Name":  "Redis",
+        "Link":  "https://aka.ms/Azure/Redis",
+        "Description":  ""
+    },
+    {
+        "Name":  "Regions",
+        "Link":  "https://aka.ms/azure/Regions",
+        "Description":  ""
+    },
+    {
+        "Name":  "Replication",
+        "Link":  "https://aka.ms/Azure/Replication",
+        "Description":  ""
+    },
+    {
+        "Name":  "RG",
+        "Link":  "https://aka.ms/Azure/RG",
+        "Description":  ""
+    },
+    {
+        "Name":  "RHEL",
+        "Link":  "https://aka.ms/Azure/RHEL",
+        "Description":  ""
+    },
+    {
+        "Name":  "RMS",
+        "Link":  "https://aka.ms/Azure/RMS",
+        "Description":  ""
+    },
+    {
+        "Name":  "Roadmap",
+        "Link":  "https://aka.ms/Azure/Roadmap",
+        "Description":  ""
+    },
+    {
+        "Name":  "RouteTable",
+        "Link":  "https://aka.ms/Azure/RouteTable",
+        "Description":  ""
+    },
+    {
+        "Name":  "RSS",
+        "Link":  "https://aka.ms/Azure/RSS",
+        "Description":  ""
+    },
+    {
+        "Name":  "Runbooks",
+        "Link":  "https://aka.ms/Azure/Runbooks",
+        "Description":  ""
+    },
+    {
+        "Name":  "S2S",
+        "Link":  "https://aka.ms/Azure/S2S",
+        "Description":  ""
+    },
+    {
+        "Name":  "SaaS",
+        "Link":  "https://aka.ms/Azure/SaaS",
+        "Description":  ""
+    },
+    {
+        "Name":  "SaaS/tutorials",
+        "Link":  "https://aka.ms/azure/SaaS/tutorials",
+        "Description":  ""
+    },
+    {
+        "Name":  "SAS",
+        "Link":  "https://aka.ms/Azure/SAS",
+        "Description":  ""
+    },
+    {
+        "Name":  "Scheduler",
+        "Link":  "https://aka.ms/Azure/Scheduler",
+        "Description":  ""
+    },
+    {
+        "Name":  "Schemas",
+        "Link":  "https://aka.ms/Azure/Schemas",
+        "Description":  ""
+    },
+    {
+        "Name":  "SDL",
+        "Link":  "https://aka.ms/Azure/SDL",
+        "Description":  ""
+    },
+    {
+        "Name":  "SDN",
+        "Link":  "https://aka.ms/Azure/SDN",
+        "Description":  ""
+    },
+    {
+        "Name":  "Search",
+        "Link":  "https://aka.ms/Azure/Search",
+        "Description":  ""
+    },
+    {
+        "Name":  "Security",
+        "Link":  "https://aka.ms/Azure/Security",
+        "Description":  ""
+    },
+    {
+        "Name":  "SecurityMindset",
+        "Link":  "https://aka.ms/Azure/SecurityMindset",
+        "Description":  ""
+    },
+    {
+        "Name":  "ServiceFabric",
+        "Link":  "https://aka.ms/Azure/ServiceFabric",
+        "Description":  ""
+    },
+    {
+        "Name":  "Services",
+        "Link":  "https://aka.ms/Azure/Services",
+        "Description":  ""
+    },
+    {
+        "Name":  "Sizes",
+        "Link":  "https://aka.ms/Azure/Sizes",
+        "Description":  ""
+    },
+    {
+        "Name":  "SLA",
+        "Link":  "https://aka.ms/Azure/SLA",
+        "Description":  ""
+    },
+    {
+        "Name":  "Snapshot",
+        "Link":  "https://aka.ms/Azure/Snapshot",
+        "Description":  ""
+    },
+    {
+        "Name":  "Spark",
+        "Link":  "https://aka.ms/azure/Spark",
+        "Description":  ""
+    },
+    {
+        "Name":  "SQL",
+        "Link":  "https://aka.ms/Azure/SQL",
+        "Description":  ""
+    },
+    {
+        "Name":  "SSE",
+        "Link":  "https://aka.ms/Azure/SSE",
+        "Description":  ""
+    },
+    {
+        "Name":  "SSGM",
+        "Link":  "https://aka.ms/Azure/SSGM",
+        "Description":  ""
+    },
+    {
+        "Name":  "SSPR",
+        "Link":  "https://aka.ms/Azure/SSPR",
+        "Description":  ""
+    },
+    {
+        "Name":  "Stack",
+        "Link":  "https://aka.ms/Azure/Stack",
+        "Description":  ""
+    },
+    {
+        "Name":  "Storage",
+        "Link":  "https://aka.ms/Azure/Storage",
+        "Description":  ""
+    },
+    {
+        "Name":  "Storage/Checklist",
+        "Link":  "https://aka.ms/Azure/Storage/Checklist",
+        "Description":  ""
+    },
+    {
+        "Name":  "StorSimple",
+        "Link":  "https://aka.ms/Azure/StorSimple",
+        "Description":  ""
+    },
+    {
+        "Name":  "StreamAnalytics",
+        "Link":  "https://aka.ms/Azure/StreamAnalytics",
+        "Description":  ""
+    },
+    {
+        "Name":  "SSL",
+        "Link":  "https://aka.ms/Azure/SSL",
+        "Description":  ""
+    },
+    {
+        "Name":  "Subscriptions",
+        "Link":  "https://aka.ms/Azure/Subscriptions",
+        "Description":  ""
+    },
+    {
+        "Name":  "Tables",
+        "Link":  "https://aka.ms/Azure/Tables",
+        "Description":  ""
+    },
+    {
+        "Name":  "tags",
+        "Link":  "https://aka.ms/Azure/tags",
+        "Description":  ""
+    },
+    {
+        "Name":  "Templates",
+        "Link":  "https://aka.ms/Azure/Templates",
+        "Description":  ""
+    },
+    {
+        "Name":  "Tools",
+        "Link":  "https://aka.ms/Azure/Tools",
+        "Description":  ""
+    },
+    {
+        "Name":  "Traffic",
+        "Link":  "https://aka.ms/Azure/Traffic",
+        "Description":  ""
+    },
+    {
+        "Name":  "Traffic/Create",
+        "Link":  "https://aka.ms/Azure/Traffic/Create",
+        "Description":  ""
+    },
+    {
+        "Name":  "Training",
+        "Link":  "https://aka.ms/Azure/Training",
+        "Description":  ""
+    },
+    {
+        "Name":  "Transfer",
+        "Link":  "https://aka.ms/Azure/Transfer",
+        "Description":  ""
+    },
+    {
+        "Name":  "Trial",
+        "Link":  "https://aka.ms/Azure/Trial",
+        "Description":  ""
+    },
+    {
+        "Name":  "trust",
+        "Link":  "https://aka.ms/Azure/trust",
+        "Description":  ""
+    },
+    {
+        "Name":  "UDR",
+        "Link":  "https://aka.ms/Azure/UDR",
+        "Description":  ""
+    },
+    {
+        "Name":  "Upload",
+        "Link":  "https://aka.ms/Azure/Upload",
+        "Description":  ""
+    },
+    {
+        "Name":  "Usage",
+        "Link":  "https://aka.ms/azure/Usage",
+        "Description":  ""
+    },
+    {
+        "Name":  "Users",
+        "Link":  "https://aka.ms/azure/Users",
+        "Description":  ""
+    },
+    {
+        "Name":  "VM",
+        "Link":  "https://aka.ms/Azure/VM",
+        "Description":  ""
+    },
+    {
+        "Name":  "VM/articles",
+        "Link":  "https://aka.ms/Azure/VM/articles",
+        "Description":  ""
+    },
+    {
+        "Name":  "vmss",
+        "Link":  "https://aka.ms/Azure/vmss",
+        "Description":  ""
+    },
+    {
+        "Name":  "VNet",
+        "Link":  "https://aka.ms/Azure/VNet",
+        "Description":  ""
+    },
+    {
+        "Name":  "Vnet/Create",
+        "Link":  "https://aka.ms/Azure/Vnet/Create",
+        "Description":  ""
+    },
+    {
+        "Name":  "VPN",
+        "Link":  "https://aka.ms/Azure/VPN",
+        "Description":  ""
+    },
+    {
+        "Name":  "vnet-vnet",
+        "Link":  "https://aka.ms/Azure/vnet-vnet",
+        "Description":  ""
+    },
+    {
+        "Name":  "VS",
+        "Link":  "https://aka.ms/Azure/VS",
+        "Description":  ""
+    },
+    {
+        "Name":  "WAF",
+        "Link":  "https://aka.ms/Azure/WAF",
+        "Description":  ""
+    },
+    {
+        "Name":  "WebApps",
+        "Link":  "https://aka.ms/Azure/WebApps",
+        "Description":  ""
+    },
+    {
+        "Name":  "WebHooks",
+        "Link":  "https://aka.ms/Azure/WebHooks",
+        "Description":  ""
+    }
+]
